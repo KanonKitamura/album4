@@ -14,6 +14,15 @@
 		E9A67FB81AAEED2B00BE224D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FB71AAEED2B00BE224D /* Images.xcassets */; };
 		E9A67FBB1AAEED2B00BE224D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FB91AAEED2B00BE224D /* LaunchScreen.xib */; };
 		E9A67FC71AAEED2B00BE224D /* album4Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9A67FC61AAEED2B00BE224D /* album4Tests.m */; };
+		E9A67FD31AAEEF7F00BE224D /* かのん.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FD01AAEEF7F00BE224D /* かのん.png */; };
+		E9A67FD41AAEEF7F00BE224D /* さきょう.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FD11AAEEF7F00BE224D /* さきょう.png */; };
+		E9A67FD51AAEEF7F00BE224D /* しほ.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FD21AAEEF7F00BE224D /* しほ.jpeg */; };
+		E9A67FD71AAEEF8500BE224D /* ぞの.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FD61AAEEF8500BE224D /* ぞの.png */; };
+		E9A67FD91AAEEF8D00BE224D /* りん.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FD81AAEEF8D00BE224D /* りん.png */; };
+		E9A67FDD1AAF02E600BE224D /* さと.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FDC1AAF02E600BE224D /* さと.png */; };
+		E9A67FDF1AAF02EE00BE224D /* みずき.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A67FDE1AAF02EE00BE224D /* みずき.png */; };
+		E9A680931AB3DEAF00BE224D /* プリン.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A680921AB3DEAF00BE224D /* プリン.png */; };
+		E9A680991AB3E56600BE224D /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A680981AB3E56600BE224D /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +49,15 @@
 		E9A67FC01AAEED2B00BE224D /* album4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = album4Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9A67FC51AAEED2B00BE224D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9A67FC61AAEED2B00BE224D /* album4Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = album4Tests.m; sourceTree = "<group>"; };
+		E9A67FD01AAEEF7F00BE224D /* かのん.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "かのん.png"; sourceTree = "<group>"; };
+		E9A67FD11AAEEF7F00BE224D /* さきょう.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "さきょう.png"; sourceTree = "<group>"; };
+		E9A67FD21AAEEF7F00BE224D /* しほ.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "しほ.jpeg"; sourceTree = "<group>"; };
+		E9A67FD61AAEEF8500BE224D /* ぞの.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ぞの.png"; sourceTree = "<group>"; };
+		E9A67FD81AAEEF8D00BE224D /* りん.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "りん.png"; sourceTree = "<group>"; };
+		E9A67FDC1AAF02E600BE224D /* さと.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "さと.png"; sourceTree = "<group>"; };
+		E9A67FDE1AAF02EE00BE224D /* みずき.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "みずき.png"; sourceTree = "<group>"; };
+		E9A680921AB3DEAF00BE224D /* プリン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "プリン.png"; path = "../../プリン.png"; sourceTree = "<group>"; };
+		E9A680981AB3E56600BE224D /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../../Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +99,15 @@
 		E9A67FA91AAEED2B00BE224D /* album4 */ = {
 			isa = PBXGroup;
 			children = (
+				E9A680981AB3E56600BE224D /* Icon.png */,
+				E9A680921AB3DEAF00BE224D /* プリン.png */,
+				E9A67FDE1AAF02EE00BE224D /* みずき.png */,
+				E9A67FDC1AAF02E600BE224D /* さと.png */,
+				E9A67FD81AAEEF8D00BE224D /* りん.png */,
+				E9A67FD61AAEEF8500BE224D /* ぞの.png */,
+				E9A67FD01AAEEF7F00BE224D /* かのん.png */,
+				E9A67FD11AAEEF7F00BE224D /* さきょう.png */,
+				E9A67FD21AAEEF7F00BE224D /* しほ.jpeg */,
 				E9A67FAE1AAEED2B00BE224D /* AppDelegate.h */,
 				E9A67FAF1AAEED2B00BE224D /* AppDelegate.m */,
 				E9A67FB11AAEED2B00BE224D /* ViewController.h */,
@@ -199,9 +226,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9A680991AB3E56600BE224D /* Icon.png in Resources */,
+				E9A67FD71AAEEF8500BE224D /* ぞの.png in Resources */,
 				E9A67FB61AAEED2B00BE224D /* Main.storyboard in Resources */,
+				E9A680931AB3DEAF00BE224D /* プリン.png in Resources */,
 				E9A67FBB1AAEED2B00BE224D /* LaunchScreen.xib in Resources */,
+				E9A67FD31AAEEF7F00BE224D /* かのん.png in Resources */,
+				E9A67FD51AAEEF7F00BE224D /* しほ.jpeg in Resources */,
 				E9A67FB81AAEED2B00BE224D /* Images.xcassets in Resources */,
+				E9A67FDD1AAF02E600BE224D /* さと.png in Resources */,
+				E9A67FDF1AAF02EE00BE224D /* みずき.png in Resources */,
+				E9A67FD91AAEEF8D00BE224D /* りん.png in Resources */,
+				E9A67FD41AAEEF7F00BE224D /* さきょう.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,6 +379,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = album4/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -353,6 +390,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = album4/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +450,7 @@
 				E9A67FCC1AAEED2B00BE224D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9A67FCD1AAEED2B00BE224D /* Build configuration list for PBXNativeTarget "album4Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +459,7 @@
 				E9A67FCF1AAEED2B00BE224D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
